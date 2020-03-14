@@ -1,6 +1,0 @@
-laerning github
-<<<<<<< HEAD
-3426374fdfjskdfk
-=======
-learning branches
->>>>>>> testing
